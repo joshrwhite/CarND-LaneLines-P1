@@ -11,7 +11,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: https://github.com/joshrwhite/CarND-LaneLines-P1/blob/master/examples/laneLines_thirdPass.png "Solid Lines"
+[image1]: https://github.com/joshrwhite/CarND-LaneLines-P1/blob/master/examples/laneLines_thirdPass.jpg "Solid Lines"
 
 ---
 
